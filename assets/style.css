@@ -85,14 +85,11 @@ body {
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me__text {
 	width: 80%;
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -147,6 +144,8 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
+	font-size: 2.5rem;
+	line-height: 1.2;
 
 }
 .quote__author {
