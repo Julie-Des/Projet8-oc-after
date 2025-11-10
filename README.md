@@ -97,10 +97,16 @@ This project is part of the Web Integrator training course – OpenClassrooms.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Julie-Des/Projet8-oc-after/
+    git clone https://github.com/Julie-Des/Projet8-oc-after
     ```
 
-2.  **No specific installation steps are required.** The project consists of static HTML, CSS, and JavaScript files.
+2.  Navigate to the project directory:
+
+    ```bash
+    cd Projet8-oc-after
+    ```
+
+**No specific installation steps are required.** The project consists of static HTML, CSS, and JavaScript files.
 
 ### Running Locally
 
